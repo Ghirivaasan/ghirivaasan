@@ -56,17 +56,6 @@ Focused on **Data Science, Machine Learning, Analytics, or App Development**
 - 💰 Financial & Investment Analysis  
 - 🧠 Data Structures & Algorithms  
 
----
-
-## 🎓 Academic Background
-
-| Degree | Institution | Year | Score |
-|------|------------|------|------|
-| **Integrated M.Sc Data Science** | PSG College of Technology | 2023 – Present | **7.62 CGPA** |
-| **CBSE XII** | Alwin Memorial Sr. Sec. School | 2023 | **92%** |
-| **CBSE X** | Alwin Memorial Sr. Sec. School | 2021 | **94.8%** |
-
----
 
 ## 💼 Industry Experience
 
@@ -86,44 +75,6 @@ Focused on **Data Science, Machine Learning, Analytics, or App Development**
   - 📝 Memory Notes (Room DB)
   - 🎮 Cognitive Memory Games
   - 📍 Emergency Location Tracking
-
----
-
-## 🚀 Major Projects
-
-### 🧠 MemoryAid App (Android)
-- Kotlin + Jetpack Libraries  
-- On-device ML, Secure Storage, Emergency Features  
-- Designed for **patients & caretakers**
-
----
-
-### 🌦️ Weather Forecasting (Time Series)
-- Python + Flask  
-- ARIMA / SARIMA Models  
-- Interactive visualizations  
-- Metrics: **MAE, RMSE, MAPE**
-
----
-
-### 💼 Bankruptcy Prediction & Financial Risk Analysis
-- XGBoost + SMOTE  
-- Financial ratio analysis (liquidity, leverage)  
-- High recall for **early insolvency detection**
-
----
-
-### 💰 AI Personal Expense Categorization
-- ML Models: Logistic Regression, KNN, ELM, RNN  
-- Real-time prediction & dashboards  
-- Automated pipelines & analytics
-
----
-
-### 📊 HR Analytics Dashboard
-- Power BI + DAX  
-- Attrition, salary trends & workforce insights  
-- Interactive filters & visuals
 
 ---
 
