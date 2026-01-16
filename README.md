@@ -1,16 +1,171 @@
-## Hi there 👋
+<!-- ===================== HERO SECTION ===================== -->
+<h1 align="center">Hi 👋, I'm Ghirivaasan A</h1>
+<h3 align="center">Integrated M.Sc Data Science Student | Android Developer | ML & Analytics Enthusiast</h3>
 
-<!--
-**Ghirivaasan/ghirivaasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Science+%7C+Machine+Learning;Android+App+Developer;Analytics+%26+Visualization;Chess+Player+%7C+Problem+Solver" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+🎓 **3rd Year Integrated M.Sc Data Science** student at **PSG College of Technology**  
+📍 Chennai, India  
+📊 Passionate about **Data Analytics, Machine Learning & Visualization**  
+📱 Experienced **Android App Developer (Kotlin + Jetpack)**  
+♟️ **Professional Chess Player (FIDE 1525)**  
+📈 Interested in **Financial Risk & Investment Analysis**
+
+💡 *I enjoy building data-driven systems, scalable mobile apps, and intelligent ML models that solve real-world problems.*
+
+---
+
+## 🎯 Career Objective
+
+🚀 Seeking a **Student Internship (May 2026 – November 2026)**  
+Focused on **Data Science, Machine Learning, Analytics, or App Development**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,r,sql" />
+</p>
+
+### ⚙️ Platforms & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,androidstudio,kafka" />
+</p>
+
+### 📊 Libraries & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <br>
+  Pandas • NumPy • Seaborn • Matplotlib • Power BI • Excel
+</p>
+
+---
+
+## 📚 Areas of Interest
+
+- 📊 Data Analytics & Visualization  
+- 🤖 Supervised & Unsupervised Learning  
+- 💰 Financial & Investment Analysis  
+- 🧠 Data Structures & Algorithms  
+
+---
+
+## 🎓 Academic Background
+
+| Degree | Institution | Year | Score |
+|------|------------|------|------|
+| **Integrated M.Sc Data Science** | PSG College of Technology | 2023 – Present | **7.62 CGPA** |
+| **CBSE XII** | Alwin Memorial Sr. Sec. School | 2023 | **92%** |
+| **CBSE X** | Alwin Memorial Sr. Sec. School | 2021 | **94.8%** |
+
+---
+
+## 💼 Industry Experience
+
+### 🏫 **IIT Roorkee** — App Development Intern  
+📅 *May 2024 – June 2024* (Remote)  
+- Internship via **Teachnook** & **Cognizance ’24**  
+- Hands-on experience in **Android App Development & Software Engineering**
+
+---
+
+### 🏫 **IIIT Kottayam** — Android Developer Intern  
+📅 *May 2025 – July 2025* (Hybrid)  
+- Developed **MemoryAid App** for Alzheimer patients  
+- Features include:
+  - 👤 Face Recognition (Google ML Kit)
+  - ⏰ Medication Reminders
+  - 📝 Memory Notes (Room DB)
+  - 🎮 Cognitive Memory Games
+  - 📍 Emergency Location Tracking
+
+---
+
+## 🚀 Major Projects
+
+### 🧠 MemoryAid App (Android)
+- Kotlin + Jetpack Libraries  
+- On-device ML, Secure Storage, Emergency Features  
+- Designed for **patients & caretakers**
+
+---
+
+### 🌦️ Weather Forecasting (Time Series)
+- Python + Flask  
+- ARIMA / SARIMA Models  
+- Interactive visualizations  
+- Metrics: **MAE, RMSE, MAPE**
+
+---
+
+### 💼 Bankruptcy Prediction & Financial Risk Analysis
+- XGBoost + SMOTE  
+- Financial ratio analysis (liquidity, leverage)  
+- High recall for **early insolvency detection**
+
+---
+
+### 💰 AI Personal Expense Categorization
+- ML Models: Logistic Regression, KNN, ELM, RNN  
+- Real-time prediction & dashboards  
+- Automated pipelines & analytics
+
+---
+
+### 📊 HR Analytics Dashboard
+- Power BI + DAX  
+- Attrition, salary trends & workforce insights  
+- Interactive filters & visuals
+
+---
+
+## 🏆 Achievements & Activities
+
+♟️ **Professional Chess Player (10+ years)**  
+- FIDE Rating: **1525**  
+- 🥈 Runner-up — *Centies Trophy 2025*
+
+🏸 **Badminton**
+- 🥇 Winner — Super Senior Singles (2023)
+
+🗣️ **Hindi Proficiency**
+- Completed till **Praveshika**
+- Dakshin Bharat Hindi Prachar Sabha
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:23pd11@psgtech.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ghirivaasan">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ghirivaasan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghirivaasan&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghirivaasan&theme=tokyonight" />
+</p>
+
+---
+
+✨ *“Turning data into decisions and ideas into impact.”*
