@@ -96,7 +96,7 @@ Focused on **Data Science, Machine Learning, Analytics, or App Development**
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:23pd11@psgtech.ac.in">
+  <a href="mailto:ghirivaasan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Ghirivaasan">
