@@ -109,14 +109,5 @@ Focused on **Data Science, Machine Learning, Analytics, or App Development**
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghirivaasan&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghirivaasan&theme=tokyonight" />
-</p>
-
----
 
 ✨ *“Turning data into decisions and ideas into impact.”*
